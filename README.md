@@ -43,8 +43,7 @@ com.user
 
 ## Screenshots
 ### Home Page
-![Home Page](./Screenshot_129.png)
-
+<img src="assets/Screenshot (129).png" alt="">
 ### Register User Page
 ![Register User](./Screenshot_130.png)
 
