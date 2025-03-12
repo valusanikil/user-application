@@ -44,14 +44,15 @@ com.user
 ## Screenshots
 ### Home Page
 <img src="assets/Screenshot (129).png" alt="">
+
 ### Register User Page
-![Register User](./Screenshot_130.png)
+<img src="assets/Screenshot (130).png" alt="">
 
 ### User List Page
-![User List](./Screenshot_131.png)
+<img src="assets/Screenshot (131).png" alt="">
 
 ### Search User by ID
-![Search User](./Screenshot_132.png)
+<img src="assets/Screenshot (132).png" alt="">
 
 ## Installation and Setup
 ### Backend Setup
